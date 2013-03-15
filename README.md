@@ -1,4 +1,6 @@
-can-filed-type
-==============
+Canadian Provinces And Territories Field Type
+==============================================
 
-A PyroCMS field type to list Canadian Provinces and Territories. Built off the default US State field.
+### Full Disclosure
+
+A copy(find-replace-rename) of Adam Fairholms [US State Field Type](https://github.com/pyrocms/pyrocms/tree/2.2/develop/system/cms/modules/streams_core/field_types/state)
